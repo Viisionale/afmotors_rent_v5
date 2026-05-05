@@ -1,0 +1,251 @@
+{
+  "Nav": {
+    "home": "Home",
+    "fleet": "Our Fleet",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Login",
+    "myBookings": "My Bookings",
+    "logout": "Logout",
+    "location": "Location",
+    "bookNow": "Booking"
+  },
+  "Hero": {
+    "title": "Explore Sardinia with the perfect ride",
+    "subtitle": "Pick up your car at Cagliari Airport and discover the island at your own pace. Simple booking, transparent prices, no hidden fees.",
+    "search": "Search available cars"
+  },
+  "Search": {
+    "pickupDate": "Pick-up Date",
+    "pickupTime": "Pick-up Time",
+    "dropoffDate": "Drop-off Date",
+    "dropoffTime": "Drop-off Time",
+    "pickupLocation": "Pick-up Location",
+    "dropoffLocation": "Return Location",
+    "searchButton": "Search Available Vehicles",
+    "search": "Search"
+  },
+  "Fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Choose from a wide selection of well-maintained vehicles for every need and budget.",
+    "perDay": "/day",
+    "seats": "seats",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "available": "Available",
+    "onRequest": "On Request",
+    "unavailable": "Unavailable",
+    "totalForPeriod": "Total for period",
+    "noVehicles": "No vehicles available for the selected dates.",
+    "loading": "Searching available vehicles...",
+    "filters": "Filters",
+    "all": "All",
+    "economy": "Economy",
+    "compact": "Compact",
+    "suv": "SUV",
+    "premium": "Premium",
+    "manual": "Manual",
+    "automatic": "Automatic"
+  },
+  "VehicleDetail": {
+    "from": "From",
+    "perDay": "/day",
+    "features": "Features",
+    "included": "What's Included",
+    "insurance": "Basic Insurance",
+    "mileage": "Unlimited Mileage",
+    "support": "24/7 Roadside Assistance",
+    "cancellation": "Free Cancellation up to 48h",
+    "bookThisVehicle": "Book This Vehicle",
+    "seats": "Seats",
+    "transmission": "Transmission",
+    "fuel": "Fuel",
+    "doors": "Doors",
+    "ac": "A/C",
+    "category": "Category"
+  },
+  "HowItWorks": {
+    "title": "How It Works",
+    "subtitle": "Renting a car has never been this easy. Just 3 simple steps.",
+    "step1Title": "Search & Choose",
+    "step1Desc": "Enter your dates and pick the car that fits your trip. Compare prices and features at a glance.",
+    "step2Title": "Book & Pay Online",
+    "step2Desc": "Complete your reservation in minutes with secure online payment. No paperwork needed.",
+    "step3Title": "Pick Up & Drive",
+    "step3Desc": "The shuttle service to and from Cagliari airport is free, convenient, and active 24/7. Pick up your car quickly, avoiding queues, at our spacious pick-up points equipped with relaxation areas."
+  },
+  "About": {
+    "title": "About Us | AF Motors Rent Sardinia",
+    "description": "We are one of the largest companies nationwide and undisputed leaders in the Sardinian car market. With solid roots in the automotive sector, we offer a highly specialized team and constantly focus on innovation and electric mobility.",
+    "mission": "Our mission is to inspire and assist travelers in planning and experiencing unforgettable moments in Sardinia. We aim to be your trusted guide, offering detailed information, valuable tips, and reliable services."
+  },
+  "TravelPlanner": {
+    "cta": "Choose your car and create the perfect itinerary with our Travel Planner to explore Sardinia your way.",
+    "button": "Plan Your Trip"
+  },
+  "ProtectionPlans": {
+    "baseTitle": "Basic Package",
+    "baseDesc": "The rate includes RCA Insurance (Civil Liability), unlimited mileage, and conventional reduction for damage (CDW) and theft (TLW). The customer is required to leave a security deposit as a guarantee and to be financially responsible according to the deductibles.",
+    "topTitle": "Top Protection",
+    "topDesc": "Enjoy a worry-free journey: zero excess for theft and damage (including roof and underbody), security deposit reduced to just €100, Personal Accident Insurance (P.A.I.), and Plus Roadside Assistance."
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before your trip.",
+    "q1": "What do I need to rent a car?",
+    "a1": "You need a valid driving licence, a credit card in the driver's name, and a valid ID or passport.",
+    "q2": "Where can I pick up and return the car?",
+    "a2": "Our main location is Cagliari Elmas Airport (CAG). We also offer delivery to select hotels and locations across Sardinia.",
+    "q3": "Is insurance included?",
+    "a3": "Yes, basic insurance (CDW/TPL) is included in all rentals. You can upgrade to full cover during booking.",
+    "q4": "Can I cancel or modify my reservation?",
+    "a4": "Free cancellation is available up to 48 hours before pick-up. Modifications can be made from your dashboard.",
+    "q5": "What fuel policy do you use?",
+    "a5": "We use a full-to-full fuel policy. Pick up with a full tank and return it full to avoid refuelling charges.",
+    "q6": "Do you offer child seats and GPS?",
+    "a6": "Yes, child seats, GPS navigation, and other extras can be added during the booking process."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Reach out anytime.",
+    "locationTitle": "Our Location",
+    "address": "Cagliari Elmas Airport (CAG)",
+    "addressLine2": "09067 Elmas, Sardinia, Italy",
+    "phone": "+39 070 123 4567",
+    "email": "info@afmotorsrent.it",
+    "hours": "Opening Hours",
+    "hoursDetail": "Mon - Sun: 08:00 – 22:00",
+    "formTitle": "Send us a message",
+    "name": "Your Name",
+    "emailField": "Email Address",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "Checkout": {
+    "title": "Complete Your Booking",
+    "step1": "Extras",
+    "step2": "Your Details",
+    "step3": "Payment",
+    "premiumInsurance": "Premium Insurance",
+    "premiumInsuranceDesc": "Full cover with zero excess — €15/day",
+    "gps": "GPS Navigation",
+    "gpsDesc": "Never get lost — €5/day",
+    "childSeat": "Child Seat",
+    "childSeatDesc": "ISOFIX child seat — €8/day",
+    "next": "Continue",
+    "back": "Back",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "cardNumber": "Card Number",
+    "expiry": "MM/YY",
+    "cvc": "CVC",
+    "payConfirm": "Pay & Confirm Booking",
+    "summary": "You are booking vehicle"
+  },
+  "Dashboard": {
+    "title": "My Account",
+    "tabReservations": "Reservations",
+    "tabQuotations": "Quotations",
+    "tabProfile": "Profile",
+    "noReservations": "You don't have any reservations yet.",
+    "noReservationsHint": "When you book a vehicle, it will appear here.",
+    "noQuotations": "You don't have any quotations yet.",
+    "noQuotationsHint": "Your quotations will appear here.",
+    "ref": "Ref",
+    "vehicle": "Vehicle",
+    "pickup": "Pick-up",
+    "dropoff": "Drop-off",
+    "total": "Total",
+    "status": "Status",
+    "statusConfirmed": "Confirmed",
+    "statusPending": "Pending",
+    "statusCancelled": "Cancelled",
+    "statusCompleted": "Completed",
+    "profileFirstName": "First Name",
+    "profileLastName": "Last Name",
+    "profileEmail": "Email Address",
+    "profilePhone": "Phone Number",
+    "profileSave": "Save Changes",
+    "profileSaved": "Profile updated!",
+    "profileError": "Error updating profile.",
+    "logout": "Log Out",
+    "loading": "Loading...",
+    "browseFleet": "Browse Fleet"
+  },
+  "Login": {
+    "title": "Welcome Back",
+    "subtitle": "Log in to manage your bookings.",
+    "registerTitle": "Create an Account",
+    "registerSubtitle": "Sign up to book and manage your vehicles.",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "Log In",
+    "register": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Log In",
+    "errorInvalidCredentials": "Invalid email or password.",
+    "errorPasswordMismatch": "Passwords do not match.",
+    "errorGeneric": "An error occurred. Please try again.",
+    "successRegistration": "Registration complete! Welcome.",
+    "forgotPassword": "Forgot your password? Contact us by email.",
+    "loading": "Please wait..."
+  },
+  "Success": {
+    "title": "Booking Confirmed!",
+    "message": "Your vehicle has been successfully reserved. A confirmation email has been sent to your email address.",
+    "refLabel": "Booking Reference",
+    "goDashboard": "Go to Dashboard",
+    "goHome": "Back to Home"
+  },
+  "Footer": {
+    "company": "AF Motors Rent",
+    "tagline": "Your trusted car rental in Sardinia since 2010.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us",
+    "copyright": "All rights reserved."
+  },
+  "SEO": {
+    "home": {
+      "title": "Car Rental Sardinia | AF Motors Rent Cagliari Airport",
+      "description": "Car rental in Sardinia with pick-up at Cagliari Airport and Sestu. Discover the best offers for affordable, family, and electric car rentals in Sardinia."
+    },
+    "about": {
+      "title": "About Us | AF Motors Rent Sardinia",
+      "description": "We are AF Motors Rent, your car rental agency in Sardinia. Part of the AF Motors group, we offer safe and reliable vehicles."
+    },
+    "terms": {
+      "title": "Terms and Conditions | AF Motors Rent",
+      "description": "Read the terms and conditions for car rental with AF Motors Rent Sardinia."
+    },
+    "privacy": {
+      "title": "Privacy Policy | AF Motors Rent",
+      "description": "Privacy policy of AF Motors Rent regarding the management of personal data."
+    },
+    "contact": {
+      "title": "Contact | AF Motors Rent Sardinia",
+      "description": "Contact us for information on car rental in Sardinia. Offices at Cagliari Airport and Sestu."
+    },
+    "fleet": {
+      "title": "Fleet | Car Rental in Sardinia",
+      "description": "Explore our fleet of rental vehicles in Sardinia: affordable cars, spacious SUVs, and electric vehicles."
+    },
+    "faq": {
+      "title": "FAQ | Car Rental Frequently Asked Questions",
+      "description": "Answers to the most frequently asked questions about car rental in Sardinia with AF Motors Rent."
+    }
+  },
+  "Vehicle": {
+    "pickupCagliari": "Cagliari Airport, Sardinia",
+    "pickupSestu": "Viale Monastir, km 8/5, Sestu, Sardinia",
+    "pickupDefault": "Cagliari Airport / Sestu, Sardinia"
+  }
+}

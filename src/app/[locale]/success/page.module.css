@@ -1,0 +1,212 @@
+.page {
+  display: flex;
+  justify-content: center;
+  padding: 60px 24px;
+  min-height: 60vh;
+}
+
+.confirmationCard {
+  max-width: 680px;
+  width: 100%;
+}
+
+/* ── Header ── */
+.header {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ECFDF5, #D1FAE5);
+  color: #059669;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin: 0 auto 20px;
+  box-shadow: 0 4px 16px rgba(5,150,105,0.15);
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+}
+
+/* ── Ref Box ── */
+.refBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+  border: 1px solid #bae6fd;
+  padding: 20px;
+  border-radius: var(--radius-lg);
+  margin-bottom: 28px;
+}
+
+.refLabel {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-secondary);
+}
+
+.refValue {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  letter-spacing: 1px;
+}
+
+/* ── Detail Sections ── */
+.detailSection {
+  padding: 20px;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  margin-bottom: 16px;
+  background: white;
+}
+
+.sectionLabel {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--text-primary);
+}
+
+/* ── Vehicle Row ── */
+.vehicleRow {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.vehicleImg {
+  width: 120px;
+  height: 80px;
+  object-fit: contain;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.vehicleName {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.vehicleCategory {
+  font-size: 0.82rem;
+  color: var(--primary);
+  font-weight: 600;
+}
+
+/* ── Detail Grid ── */
+.detailGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.detailItem {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.detailLabel {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.detailItem strong {
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+/* ── Price Breakdown ── */
+.priceList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.priceRow {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.totalRow {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  padding-top: 12px;
+  margin-top: 8px;
+  border-top: 2px solid var(--border-light);
+}
+
+.totalRow strong {
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.driverInfo {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  margin: 4px 0;
+}
+
+/* ── Notices ── */
+.notices {
+  margin-bottom: 28px;
+}
+
+.noticeItem {
+  padding: 14px 16px;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: var(--radius);
+  font-size: 0.88rem;
+  color: #166534;
+  margin-bottom: 8px;
+}
+
+.noticeItem:last-child {
+  margin-bottom: 0;
+}
+
+/* ── Actions ── */
+.actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.actions a {
+  text-decoration: none;
+}
+
+@media (max-width: 640px) {
+  .detailGrid {
+    grid-template-columns: 1fr;
+  }
+  .actions {
+    flex-direction: column;
+  }
+}

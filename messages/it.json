@@ -1,0 +1,251 @@
+{
+  "Nav": {
+    "home": "Home",
+    "fleet": "La Nostra Flotta",
+    "howItWorks": "Come Funziona",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "login": "Accedi",
+    "myBookings": "Le Mie Prenotazioni",
+    "logout": "Esci",
+    "location": "Sede",
+    "bookNow": "Prenota"
+  },
+  "Hero": {
+    "title": "Esplora la Sardegna con l'auto perfetta",
+    "subtitle": "Ritira la tua auto all'Aeroporto di Cagliari e scopri l'isola al tuo ritmo. Prenotazione semplice, prezzi trasparenti, nessun costo nascosto.",
+    "search": "Cerca auto disponibili"
+  },
+  "Search": {
+    "pickupDate": "Data Ritiro",
+    "pickupTime": "Ora Ritiro",
+    "dropoffDate": "Data Riconsegna",
+    "dropoffTime": "Ora Riconsegna",
+    "pickupLocation": "Luogo Ritiro",
+    "dropoffLocation": "Luogo Riconsegna",
+    "searchButton": "Cerca Veicoli Disponibili",
+    "search": "Cerca"
+  },
+  "Fleet": {
+    "title": "La Nostra Flotta",
+    "subtitle": "Scegli tra un'ampia selezione di veicoli curati per ogni esigenza e budget.",
+    "perDay": "/giorno",
+    "seats": "posti",
+    "bookNow": "Prenota Ora",
+    "viewDetails": "Vedi Dettagli",
+    "available": "Disponibile",
+    "onRequest": "Su Richiesta",
+    "unavailable": "Non Disponibile",
+    "totalForPeriod": "Totale per il periodo",
+    "noVehicles": "Nessun veicolo disponibile per le date selezionate.",
+    "loading": "Ricerca veicoli disponibili...",
+    "filters": "Filtri",
+    "all": "Tutti",
+    "economy": "Economy",
+    "compact": "Compact",
+    "suv": "SUV",
+    "premium": "Premium",
+    "manual": "Manuale",
+    "automatic": "Automatico"
+  },
+  "VehicleDetail": {
+    "from": "Da",
+    "perDay": "/giorno",
+    "features": "Caratteristiche",
+    "included": "Cosa è Incluso",
+    "insurance": "Assicurazione Base",
+    "mileage": "Chilometri Illimitati",
+    "support": "Assistenza Stradale 24/7",
+    "cancellation": "Cancellazione Gratuita entro 48h",
+    "bookThisVehicle": "Prenota Questo Veicolo",
+    "seats": "Posti",
+    "transmission": "Cambio",
+    "fuel": "Carburante",
+    "doors": "Porte",
+    "ac": "A/C",
+    "category": "Categoria"
+  },
+  "HowItWorks": {
+    "title": "Come Funziona",
+    "subtitle": "Noleggiare un'auto non è mai stato così facile. Solo 3 semplici passaggi.",
+    "step1Title": "Cerca e Scegli",
+    "step1Desc": "Inserisci le tue date e scegli l'auto che fa per te. Confronta prezzi e caratteristiche a colpo d'occhio.",
+    "step2Title": "Prenota e Paga Online",
+    "step2Desc": "Completa la prenotazione in pochi minuti con pagamento sicuro online. Nessuna burocrazia.",
+    "step3Title": "Ritira e Parti",
+    "step3Desc": "Il servizio navetta da e per l'aeroporto di Cagliari è gratuito, comodo e attivo 24 ore su 24, 7 giorni su 7. Ritira la tua auto velocemente, evitando code e assembramenti, nei nostri ampi punti ritiro dotati di aree relax."
+  },
+  "About": {
+    "title": "Chi Siamo | AF Motors Rent Sardegna",
+    "description": "Siamo una tra le più grandi realtà sul territorio nazionale e leader indiscussi nel mercato dell'auto in Sardegna. Con radici solide nel settore automobilistico, offriamo un team altamente specializzato e puntiamo costantemente sull'innovazione e sulla mobilità elettrica.",
+    "mission": "La nostra missione è ispirare e assistere i viaggiatori nel pianificare e vivere esperienze indimenticabili in Sardegna. Vogliamo essere la tua guida di fiducia, offrendo informazioni dettagliate, suggerimenti preziosi e servizi affidabili."
+  },
+  "TravelPlanner": {
+    "cta": "Scegli la tua auto e crea l'itinerario perfetto con il nostro Travel Planner per esplorare la Sardegna a modo tuo.",
+    "button": "Pianifica il tuo viaggio"
+  },
+  "ProtectionPlans": {
+    "baseTitle": "Pacchetto Base",
+    "baseDesc": "La tariffa include l'Assicurazione RCA (Responsabilità Civile), chilometraggio illimitato e la riduzione convenzionale per danni (CDW) e furto (TLW). Il cliente è tenuto a lasciare un deposito cauzionale a garanzia e a rispondere economicamente in base alle franchigie.",
+    "topTitle": "Top Protection",
+    "topDesc": "Goditi il viaggio senza pensieri: franchigie azzerate per furto e danni (inclusi tetto e sottoscocca), deposito cauzionale ridotto a soli €100, Protezione Infortuni (P.A.I.) e Assistenza stradale Plus."
+  },
+  "FAQ": {
+    "title": "Domande Frequenti",
+    "subtitle": "Tutto ciò che devi sapere prima del tuo viaggio.",
+    "q1": "Cosa serve per noleggiare un'auto?",
+    "a1": "Hai bisogno di una patente valida, una carta di credito intestata al conducente e un documento d'identità o passaporto valido.",
+    "q2": "Dove posso ritirare e restituire l'auto?",
+    "a2": "La nostra sede principale è l'Aeroporto di Cagliari Elmas (CAG). Offriamo anche consegna presso hotel e località selezionate in Sardegna.",
+    "q3": "L'assicurazione è inclusa?",
+    "a3": "Sì, l'assicurazione base (CDW/TPL) è inclusa in tutti i noleggi. Puoi passare alla copertura completa durante la prenotazione.",
+    "q4": "Posso cancellare o modificare la prenotazione?",
+    "a4": "La cancellazione gratuita è disponibile fino a 48 ore prima del ritiro. Le modifiche possono essere fatte dalla tua dashboard.",
+    "q5": "Quale politica carburante utilizzate?",
+    "a5": "Utilizziamo la politica pieno-pieno. Ritira con il serbatoio pieno e riconsegna pieno per evitare costi di rifornimento.",
+    "q6": "Offrite seggiolini e GPS?",
+    "a6": "Sì, seggiolini per bambini, navigatore GPS e altri extra possono essere aggiunti durante la prenotazione."
+  },
+  "Contact": {
+    "title": "Contattaci",
+    "subtitle": "Siamo qui per aiutarti. Scrivici in qualsiasi momento.",
+    "locationTitle": "La Nostra Sede",
+    "address": "Aeroporto di Cagliari Elmas (CAG)",
+    "addressLine2": "09067 Elmas, Sardegna, Italia",
+    "phone": "+39 070 123 4567",
+    "email": "info@afmotorsrent.it",
+    "hours": "Orari di Apertura",
+    "hoursDetail": "Lun - Dom: 08:00 – 22:00",
+    "formTitle": "Inviaci un messaggio",
+    "name": "Il Tuo Nome",
+    "emailField": "Indirizzo Email",
+    "message": "Messaggio",
+    "send": "Invia Messaggio"
+  },
+  "Checkout": {
+    "title": "Completa la Prenotazione",
+    "step1": "Extra",
+    "step2": "I Tuoi Dati",
+    "step3": "Pagamento",
+    "premiumInsurance": "Assicurazione Premium",
+    "premiumInsuranceDesc": "Copertura totale con franchigia zero — €15/giorno",
+    "gps": "Navigatore GPS",
+    "gpsDesc": "Non perderti mai — €5/giorno",
+    "childSeat": "Seggiolino",
+    "childSeatDesc": "Seggiolino ISOFIX — €8/giorno",
+    "next": "Continua",
+    "back": "Indietro",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Indirizzo Email",
+    "phone": "Numero di Telefono",
+    "cardNumber": "Numero Carta",
+    "expiry": "MM/AA",
+    "cvc": "CVC",
+    "payConfirm": "Paga e Conferma",
+    "summary": "Stai prenotando il veicolo"
+  },
+  "Dashboard": {
+    "title": "Area Utente",
+    "tabReservations": "Prenotazioni",
+    "tabQuotations": "Preventivi",
+    "tabProfile": "Profilo",
+    "noReservations": "Non hai ancora prenotazioni.",
+    "noReservationsHint": "Quando prenoterai un veicolo, lo vedrai qui.",
+    "noQuotations": "Non hai ancora preventivi.",
+    "noQuotationsHint": "I tuoi preventivi appariranno qui.",
+    "ref": "Rif",
+    "vehicle": "Veicolo",
+    "pickup": "Ritiro",
+    "dropoff": "Riconsegna",
+    "total": "Totale",
+    "status": "Stato",
+    "statusConfirmed": "Confermata",
+    "statusPending": "In Attesa",
+    "statusCancelled": "Annullata",
+    "statusCompleted": "Completata",
+    "profileFirstName": "Nome",
+    "profileLastName": "Cognome",
+    "profileEmail": "Indirizzo Email",
+    "profilePhone": "Numero di Telefono",
+    "profileSave": "Salva Modifiche",
+    "profileSaved": "Profilo aggiornato!",
+    "profileError": "Errore durante l'aggiornamento.",
+    "logout": "Esci",
+    "loading": "Caricamento...",
+    "browseFleet": "Sfoglia la Flotta"
+  },
+  "Login": {
+    "title": "Bentornato",
+    "subtitle": "Accedi per gestire le tue prenotazioni.",
+    "registerTitle": "Crea un Account",
+    "registerSubtitle": "Registrati per prenotare e gestire i tuoi veicoli.",
+    "email": "Indirizzo Email",
+    "password": "Password",
+    "confirmPassword": "Conferma Password",
+    "login": "Accedi",
+    "register": "Registrati",
+    "noAccount": "Non hai un account?",
+    "haveAccount": "Hai già un account?",
+    "signUp": "Registrati",
+    "signIn": "Accedi",
+    "errorInvalidCredentials": "Email o password non validi.",
+    "errorPasswordMismatch": "Le password non corrispondono.",
+    "errorGeneric": "Si è verificato un errore. Riprova.",
+    "successRegistration": "Registrazione completata! Benvenuto.",
+    "forgotPassword": "Password dimenticata? Contattaci via email.",
+    "loading": "Attendere..."
+  },
+  "Success": {
+    "title": "Prenotazione Confermata!",
+    "message": "Il tuo veicolo è stato prenotato con successo. Un'email di conferma è stata inviata al tuo indirizzo.",
+    "refLabel": "Riferimento Prenotazione",
+    "goDashboard": "Vai alla Dashboard",
+    "goHome": "Torna alla Home"
+  },
+  "Footer": {
+    "company": "AF Motors Rent",
+    "tagline": "Il tuo noleggio auto di fiducia in Sardegna dal 2010.",
+    "quickLinks": "Link Rapidi",
+    "support": "Supporto",
+    "terms": "Termini di Servizio",
+    "privacy": "Informativa Privacy",
+    "contact": "Contattaci",
+    "copyright": "Tutti i diritti riservati."
+  },
+  "SEO": {
+    "home": {
+      "title": "Noleggio Auto Sardegna | AF Motors Rent Aeroporto Cagliari",
+      "description": "Noleggio auto in Sardegna con ritiro all'Aeroporto di Cagliari e Sestu. Scopri le migliori offerte per il tuo noleggio auto economico, familiare ed elettrico in Sardegna."
+    },
+    "about": {
+      "title": "Chi Siamo | AF Motors Rent Sardegna",
+      "description": "Siamo AF Motors Rent, la tua agenzia di noleggio auto in Sardegna. Parte del gruppo AF Motors, offriamo veicoli sicuri e affidabili."
+    },
+    "terms": {
+      "title": "Termini e Condizioni | AF Motors Rent",
+      "description": "Leggi i termini e le condizioni del noleggio auto con AF Motors Rent Sardegna."
+    },
+    "privacy": {
+      "title": "Privacy Policy | AF Motors Rent",
+      "description": "Informativa sulla privacy di AF Motors Rent per la gestione dei dati personali."
+    },
+    "contact": {
+      "title": "Contatti | AF Motors Rent Sardegna",
+      "description": "Contattaci per informazioni sul noleggio auto in Sardegna. Sedi ad Aeroporto Cagliari e Sestu."
+    },
+    "fleet": {
+      "title": "Flotta | Noleggio Auto in Sardegna",
+      "description": "Esplora la nostra flotta di veicoli a noleggio in Sardegna: auto economiche, SUV spaziosi e veicoli elettrici."
+    },
+    "faq": {
+      "title": "FAQ | Domande Frequenti Noleggio Auto",
+      "description": "Risposte alle domande più frequenti sul noleggio auto in Sardegna con AF Motors Rent."
+    }
+  },
+  "Vehicle": {
+    "pickupCagliari": "Aeroporto di Cagliari, Sardegna",
+    "pickupSestu": "Viale Monastir, km 8/5, Sestu, Sardegna",
+    "pickupDefault": "Aeroporto di Cagliari / Sestu, Sardegna"
+  }
+}
